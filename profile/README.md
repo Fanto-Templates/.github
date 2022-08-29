@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img width="460" height="300" src="profile\images\Projetos Templates.gif">
+  <img width="600" height="400" src="profile\images\Projetos Templates.gif">
 </p>
 
 ---
