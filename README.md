@@ -1,1 +1,1 @@
-# .github
+# Repositório de informações da Organização Projetos templates
