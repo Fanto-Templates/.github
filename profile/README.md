@@ -1,7 +1,5 @@
 # Organização dos projetos templates
 
-* Criados por Gabriel Fanto Stundner
-
 ---
 
 <p align="center">
